@@ -102,9 +102,7 @@ Interactive filters added:
 ---
 
 ## 📈 Dashboard
-👉 [Tableau Public Link]([https://public.tableau.com/views/CoffeSales_17584052732210/CoffeSales?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link])
-
----
+👉 Tableau Public Link: https://public.tableau.com/views/CoffeSales_17584052732210/CoffeSales?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## 📂 Data
 - Dataset: Kaggle Coffee Sales: https://www.kaggle.com/datasets/navjotkaushal/coffee-sales-dataset  
